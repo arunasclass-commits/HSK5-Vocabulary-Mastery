@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "HSK5 Vocabulary Mastery",
+      "hasCanvas": false,
+      "bodyTextLen": 825,
+      "bodyTextHash": "249fcb3c07c850be1a7171a00aeb716d0e9f81a6fbdb10e2f8df077681155b78",
+      "bodyTextPrefix": "HSK5 Vocabulary Mastery 3521–3560 · 40 words Dashboard Learn Act",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "HSK5 Vocabulary Mastery",
+      "hasCanvas": false,
+      "bodyTextLen": 788,
+      "bodyTextHash": "192fff8d9953d6eb68e02cb87962b2ff53d067bee0b8a519cdf33ef46fa80611",
+      "bodyTextPrefix": "HSK5 Vocabulary Mastery 3521–3560 · 40 words Dashboard Learn Act",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
